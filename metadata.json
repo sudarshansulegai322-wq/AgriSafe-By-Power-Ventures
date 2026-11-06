@@ -1,0 +1,8 @@
+{
+  "name": " AgriSafe - Agriculture Hub",
+  "description": "Intelligent agricultural input authenticity verification, chemical compatibility matrix, and certified farmer marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
